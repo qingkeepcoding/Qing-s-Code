@@ -3,13 +3,23 @@
 
 # 口袋衣橱小助手  
 
-产品设计 & UI & 开发 all by 孙青  产品周期: 5天 上线时间:2020-3-6 
+产品设计 & UI & 开发 all by 孙青 
+
+产品周期: 5天     
+
+上线时间: 2020-3-6 
 
 直达链接 : https://apps.apple.com/cn/app/%E5%8F%A3%E8%A2%8B%E8%A1%A3%E6%A9%B1%E5%B0%8F%E5%8A%A9%E6%89%8B/id1501665816
 
+
 # Spare Bucks  
 
-开发 by 孙青  产品周期: 4周 最新版本上线时间:2020-3-8 (美区id 可搜到)
+开发 by 孙青  
+
+产品周期: 4周 
+
+最新版本上线时间: 2020-3-8 (美区id 可搜到)
+
 
 # 速帮到家  
 
@@ -27,56 +37,88 @@
 
 # Bonusa
 
-产品设计 & UI & 开发 all by 孙青  产品周期:6天 上线时间:2020-1-9
+产品设计 & UI & 开发 all by 孙青  
+
+产品周期: 6天 
+
+上线时间: 2020-1-9
 
 直达链接 : https://apps.apple.com/cn/app/bo-nusa/id1494166894
 
 
 # 贝萌月嫂  
 
-产品设计 & UI & 开发 all by 孙青  产品周期:5天 上线时间:2019-12-27
+产品设计 & UI & 开发 all by 孙青 
+
+产品周期: 5天 
+
+上线时间: 2019-12-27
 
 直达链接 : https://apps.apple.com/cn/app/%E8%B4%9D%E8%90%8C%E6%9C%88%E5%AB%82/id1492221798
 
 
 # 依家保洁 
 
-产品设计 & UI & 开发 all by 孙青  产品周期:5天 上线时间:2019-12-19
+产品设计 & UI & 开发 all by 孙青 
+
+产品周期: 5天 
+
+上线时间: 2019-12-19
 
 直达链接: https://apps.apple.com/cn/app/%E4%BE%9D%E5%AE%B6%E4%BF%9D%E6%B4%81/id1491781124
 
 
 # days taker  
 
-产品设计 & UI & 开发 all by 孙青  产品周期:7天 上线时间:2019-11-15
+产品设计 & UI & 开发 all by 孙青  
+
+产品周期: 7天 
+
+上线时间: 2019-11-15
 
 直达链接: https://apps.apple.com/cn/app/days-taker/id1487915429
 
 
 # sunear-ning
 
-产品设计 & UI & 开发 all by 孙青  产品周期:7天 上线时间:2019-11-15
+产品设计 & UI & 开发 all by 孙青  
+
+产品周期: 7天 
+
+上线时间: 2019-11-15
 
 直达链接: https://apps.apple.com/cn/app/sunear-ning/id1485694452
 
 
 # CanEnrich  
 
-产品设计 & UI & 开发 all by 孙青  产品周期:7天 上线时间:2019-10-22
+产品设计 & UI & 开发 all by 孙青  
+
+产品周期: 7天 
+
+上线时间: 2019-10-22
 
 直达链接 https://apps.apple.com/cn/app/canenrich/id1484290645
 
 
 # 启读小说 
 
-开发 by 孙青  产品周期:8周 上线时间:2019-07
+开发 by 孙青  
+
+产品周期: 8周 
+
+上线时间: 2019-07
 
 直达链接 https://apps.apple.com/cn/app/canenrich/id1484290645
 
 
 # Obtain-ASAP  
 
-产品设计 & UI & 开发 all by 孙青  产品周期:7天 上线时间:2019-09-12(美区id 可搜到)
+产品设计 & UI & 开发 all by 孙青 
+
+产品周期: 7天 
+
+上线时间: 2019-09-12(美区id 可搜到)
 
 
 # ExceptWork （已下架）
@@ -84,7 +126,11 @@
 
 # 启读小说  
 
-开发 by 孙青  产品周期:8周 上线时间:2019-07
+开发 by 孙青  
+
+产品周期: 8周 
+
+上线时间: 2019-07
 
 直达链接 https://apps.apple.com/cn/app/canenrich/id1484290645
 
@@ -101,6 +147,7 @@
 # 世界高铁网 
 
 直达链接 https://apps.apple.com/cn/app/%E4%B8%96%E7%95%8C%E9%AB%98%E9%93%81%E7%BD%91/id1052108598
+
 
 # 中铁供应链
 
