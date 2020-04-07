@@ -1,6 +1,31 @@
 # Qing-s-Code
 我的一些线上作品
 
+# 宠爱e盟 
+
+产品设计 & UI & 开发 all by 孙青 
+
+产品周期: 6天     
+
+上线时间: 2020-3-30
+
+直达链接 : https://apps.apple.com/cn/app/%E5%AE%A0%E7%88%B1e%E7%9B%9F/id1504071238
+
+
+
+# 明白账本
+
+产品设计 & UI & 开发 all by 孙青 
+
+产品周期: 7天     
+
+上线时间: 2020-3-17
+
+直达链接 : https://apps.apple.com/cn/app/%E5%AE%A0%E7%88%B1e%E7%9B%9F/id1504071238
+
+
+
+
 # 口袋衣橱小助手  
 
 产品设计 & UI & 开发 all by 孙青 
