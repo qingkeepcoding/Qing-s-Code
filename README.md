@@ -1,6 +1,16 @@
 # Qing-s-Code
 我的一些线上作品
 
+# 记账手札
+
+产品设计 & UI & 开发 all by 孙青 
+
+产品周期: 6天     
+
+上线时间: 2020-4-5
+
+直达链接 : https://apps.apple.com/cn/app/%E8%AE%B0%E8%B4%A6%E6%89%8B%E6%9C%AD/id1506478541
+
 # 宠爱e盟 
 
 产品设计 & UI & 开发 all by 孙青 
