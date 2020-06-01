@@ -156,7 +156,7 @@
 直达链接 : https://apps.apple.com/cn/app/%E5%BF%83%E6%84%BF%E5%B0%8F%E8%B4%B4%E5%A3%AB/id1494461622
 
 
-# Bonusa
+# Bo-nuSa
 
 产品设计 & UI & 开发 all by 孙青  
 
